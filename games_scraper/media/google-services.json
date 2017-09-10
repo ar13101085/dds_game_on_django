@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "543421501523",
+    "firebase_url": "https://bd-admission.firebaseio.com",
+    "project_id": "bd-admission",
+    "storage_bucket": "bd-admission.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:543421501523:android:8e81c80b7e1b4ba0",
+        "android_client_info": {
+          "package_name": "com.aos.bdadmission"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "543421501523-psf2t5j743pml0kibfdbjohujcb9qlg4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEeLLOWGt7ImHUZg7TwWKTyMzSB_bqpPc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
